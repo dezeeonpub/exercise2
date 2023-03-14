@@ -3,7 +3,7 @@ exercise 2 From Mr. Agung Nugroho, S.Kom., M.Kom.
 
 <h1 align="center">Hi 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Muhammad Azizul Dzikri</a> indonesia</h1>
-<h3 align="center">I am a student at Pelita Bangsa University &#f21b0c;&#ffffff</h3>
+<h3 align="center">I am a student at Pelita Bangsa University </h3>
 
 
 
